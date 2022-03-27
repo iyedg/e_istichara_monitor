@@ -13,6 +13,8 @@
 <br />
 <div align="center">
 
+
+
 <h3 align="center">e-istichara Monitor</h3>
 
   <p align="center">
@@ -21,6 +23,10 @@
     ·
     <a href="https://github.com/iyedg/e_istichara_monitor/issues">Request Feature</a>
   </p>
+
+[![Product Name Screen Shot][product-screenshot]](https://iyedg.me)
+
+
 </div>
 
 
@@ -136,5 +142,5 @@ For a Human readable version of this license see [this link](https://creativecom
 [license-url]: https://github.com/iyedg/e_istichara_monitor/blob/master/UNLICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/iyed-ghedamsi
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: e_istichara_results.svg
 
