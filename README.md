@@ -94,6 +94,7 @@ python e_istichara_monitor/istichara.py
 If you wish to access the data collected by this script, please send me an email on `contact@iyedg.me`. If you create something using this data, please credit this work properly.
 
 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Where has this been used ?
@@ -103,26 +104,21 @@ A list of places where the data generated from this script was used:
 * [الاستشارة الالكترونيّة: الرئيس يستشير نفسه](https://www.albawsala.com/ar/publications/articles/20224977)
 
 
-
-
 <!-- LICENSE -->
-## License
+## Licenses
+
+### Code
 
 Distributed under the Unlicense License. See `UNLICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+### Data
+
+<p xmlns:cc="http://creativecommons.org/ns#" ><a rel="cc:attributionURL" href="https://github.com/iyedg/e_istichara_monitor">The data collected by this work</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://iyedg.me">Iyed Ghedamsi</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
 
 
-
-<!-- CONTACT -->
-## Contact
-
-Iyed Ghedamsi - contact@iyedg.me
-
-Project Link: [https://github.com/iyedg/e_istichara_monitor](https://github.com/iyedg/e_istichara_monitor)
+For a Human readable version of this license see [this link](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1). See `BY-NC.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 
